@@ -94,4 +94,4 @@ docker-compose up
 ---
 
 ## **Contact**
-For any issues or questions, please reach out to the project maintainer.
+For any issues or questions, please reach out to me (giovannyfranco@outlook.com.br)
